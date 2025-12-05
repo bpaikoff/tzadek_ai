@@ -1,0 +1,5 @@
+# .gitignore
+.env
+Sefaria-Export/
+*.jsonl
+__pycache__/
